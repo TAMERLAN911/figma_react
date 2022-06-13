@@ -1,0 +1,48 @@
+.mainBody {
+    display: flex;
+    align-items: center;
+    background-color:  white;
+    padding-top: 68px;
+   margin-left: 38%;
+    padding-bottom: 100px;
+  }
+  
+  .number {
+    margin: auto;
+    width: 585px;
+    background-color: white;
+    font-size: 288px;
+    text-align: center;
+    color: #F27C0F;
+    margin-bottom: 12px;
+  }
+  
+  .buttons {
+    padding: 20px;
+    width: 742px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    align-items: center;
+  }
+  
+  .buttons button {
+    font-family: 'Gilroy-Light', sans-serif;
+    width: 200px;
+    height: 58px;
+    font-size: 24px;
+  }
+  
+  .firstButton {
+    background-color: #003399
+  }
+  
+  .secondButton {
+    background-color: #F27C0F
+  }
+  
+  .thirdButton {
+    background-color: #E5E5E5
+  }
+
